@@ -1,2 +1,2 @@
 # Brainfuck-interpreter
-A simple Brainfuck languange interpreter written in Python
+A simple [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter to learn some Python basics.
